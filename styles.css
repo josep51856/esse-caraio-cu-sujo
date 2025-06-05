@@ -69,7 +69,7 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 7%;
+    right: 20%;
     top: 18rem;
     width: 40rem;
     height: auto;
